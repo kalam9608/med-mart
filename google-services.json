@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63753511558",
+    "project_id": "practo-app-a5112",
+    "storage_bucket": "practo-app-a5112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63753511558:android:90ed3d6c4276e8fb362707",
+        "android_client_info": {
+          "package_name": "com.desun.medicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63753511558-389q5101ergde8i6ku8iov96niudtr5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XsyPD4Vo4O5Rg3mDZnLfxIkE4MjVre4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63753511558-389q5101ergde8i6ku8iov96niudtr5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
